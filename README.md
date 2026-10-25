@@ -34,6 +34,7 @@
     - [Designs.ai](#designsai-1)
     - [Wisecut](#wisecut)
     - [Fliki AI](#fliki-ai)
+    - [GrokVideo Studio](#grokvideo-studio)
   - [Text to Video Papers](#text-to-video-papers)
     - [2023](#2023)
     - [2022](#2022)
@@ -258,6 +259,11 @@ Fliki is a tool that converts text into audio and video in under a minute, utili
 With just a few simple steps, Fliki can transform your blog into narrated videos, like Lumen5, podcasts, or audiobooks. 850+ voices are available on Fliki, including 77+ languages and 100+ regional dialects.
 
 It is one of the best AI video generators for content creation. Click [here](https://fliki.ai/) and try Fliki AI.
+
+
+### GrokVideo Studio
+
+[GrokVideo Studio](https://grokvideogenerator.dev) is an independent text/image-to-video web app built on the Grok Imagine API. It is **not affiliated with xAI or X**. Free trial credits are available for short AI videos.
 
 ## Text to Video Papers
 
